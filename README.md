@@ -1,8 +1,8 @@
 # info-ide
-##IDEES PRINCIPALES 
+## IDEES PRINCIPALES 
 Creer l'IDE fonctionnel et valable, fonctions couper coller copier, recherche et remplacement, visualisation, indentation automatique ? et fermer les parenthèses automatiquement, vérification syntaxique
 Faire un système de jeu qui apparaît aléatoirement et si tu perd tu as un malus sur le texte 
-##Ajouts 
+## Ajouts 
 Librairie graphique NUCURSES
 
 
