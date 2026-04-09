@@ -1,6 +1,12 @@
 #include <ncurses.h>
-#include <string.h>
+#include <string.
 
+/*
+Valentin (TREVAUX / NOYELLE)
+Swann ARNAL
+Projet Info 2026 : IDE
+github.com/Swannitoo/info-ide
+*/
 int main(void) {
     WINDOW *boite;
     char *msg= "Texte au centre";
