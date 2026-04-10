@@ -10,12 +10,12 @@ github.com/Swannitoo/info-ide
 */
 int main(void) {
     WINDOW *boite;
-    char *msg= "Texte au centre";
+    char *msg= "Valentin tais-toi par pitié";
     int taille= strlen(msg);
     
     initscr();
     while(1) {
-        clear();    // Efface la fenêtre (donc l'ancien message)
+        clear();
         mvprintw(LINES/2, (COLS / 2) - (taille / 2), msg);
         refresh();
         if(getch() != 410)
