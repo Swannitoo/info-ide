@@ -4,7 +4,8 @@
 #include <panel.h>
 
 /*
-Valentin (TREVAUX / NOYELLE)
+MADE BY
+Les Valentin TREVAUX / NOYELLE
 Swann ARNAL
 Projet Info 2026 : IDE
 github.com/Swannitoo/info-ide
