@@ -7,4 +7,4 @@ Librairie graphique NUCURSES
 
 
 bonjour je me présente Valentin enfin lequel je ne sais plus le monde tourne et moi je marche donc comment réfléchir dans un monde pareil¿¿¿¿???? 
-bonjour je me présente je suis valentin noyelle la pute du groupe
+bonjour je me présente je suis valentin noyelle le meilleur du groupe. Bonjour je me présente Swann le daleux de meuf woaf
